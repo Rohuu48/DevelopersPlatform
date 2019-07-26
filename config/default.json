@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://rohit34:rohit34@happyhackers-kepnb.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "secretToken"
+  "jwtSecret": "secretToken",
+  "githubClientId": "037ce8cbd5973bacc99f",
+  "githubSecret": "aa686b0a1021c61cffd2b7589245fbf4571ac710"
 }
